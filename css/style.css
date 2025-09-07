@@ -1,0 +1,10 @@
+header{
+    background: url(img/me.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 1000px;
+}
+
+.info-box{
+    align-items: center;
+}
